@@ -5,7 +5,7 @@
 [![WordPress](https://img.shields.io/badge/WordPress-6.x%20Full--Site%20Editing-21759B.svg)](https://wordpress.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An **Agent Skill** for [Pi (`@earendil-works/pi-coding-agent`)](https://github.com/earendil-works/pi) (see [pi.dev](https://pi.dev)) and other [Agent Skills](https://agentskills.io)-compatible coding assistants (such as Claude Code and Codex CLI). 
+An **Agent Skill** for [Pi](https://github.com/earendil-works/pi) (see [pi.dev](https://pi.dev)) and other [Agent Skills](https://agentskills.io)-compatible coding assistants (such as Claude Code and Codex CLI). 
 
 This skill instructs small local language models (specifically calibrated for **Liquid AI's LFM3-1.7B**, and equally effective on **Qwen 2.5 Coder 1.5B/3B** and **Llama 3.2 1B/3B**) to reliably build modern, standard-compliant **WordPress 6.x Block Themes** (`theme.json`, block templates, template parts, patterns, and `style.css`).
 
