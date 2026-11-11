@@ -1,0 +1,18 @@
+/*
+Theme Name: Starter Block Theme
+Theme URI: https://example.com/starter-block-theme
+Author: Block Theme Builder
+Author URI: https://example.com
+Description: A clean, valid WordPress 6.x block theme built with theme.json.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: starter-block-theme
+*/
+
+/* Global block theme stylesheet.
+   Most styles should be configured inside theme.json under "styles".
+   Do NOT put hardcoded hex color codes here. Use theme.json variables. */
